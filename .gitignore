@@ -1,0 +1,22 @@
+# Audio files (test/sample)
+*.wav
+*.mp3
+*.mp4
+*.m4a
+*.flac
+*.ogg
+*.wma
+*.aac
+*.opus
+*.webm
+
+# Whisper model cache
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+
+# Output
+*.txt
+!requirements.txt
